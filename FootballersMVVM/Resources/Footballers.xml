@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFootballer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Footballer>
+    <Name>Janusz</Name>
+    <Surname>Smegma</Surname>
+    <Age>40</Age>
+    <Weight>78</Weight>
+  </Footballer>
+</ArrayOfFootballer>
